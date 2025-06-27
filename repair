@@ -1,0 +1,4 @@
+Repair
+So you have a broken JSON document that you need to turn into valid JSON without a hassle? You have a newline delimited JSON data coming from a log file? Or a JavaScript object (without double quotes) from a JavaScript or Python code base that you need to turn into JSON? Or you got query results from your MongoDB containing comments and special data types like NumberLong(2) or ISODate(“2012-12-19T06:01:17.171Z”)?
+
+Just drop your data in JSON Editor Online. In many cases it will automatically repair the data for you, and if not possible, it will point you to the place where the issue is and assist you with repairing it.
